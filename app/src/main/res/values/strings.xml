@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OurApp</string>
+    <string name="title_activity_main2__drawer">Our App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Имя</string>
+    <string name="nav_header_subtitle">Фамилия</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1014980432004606</string>
+    <string name="fb_login_protocol_scheme">fb1014980432004606</string>
+    <string name="project">Project</string>
+    <string name="issues">Issues</string>
+    <string name="planet">Planet</string>
+    <string name="title_activity_photo_description">PhotoDescriptionActivity</string>
+    <string name="back">Back</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
